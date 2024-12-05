@@ -1,1 +1,2 @@
-# Dale-Meunier-
+Hey all, 
+I enjoy showing my creative side of me by creating data visualizations; where business intelligence, and  coporate standards meets the kid in me that colors outside the lines. I have experience working with SQL, Tableau, and PowerBI. I plan on showcasing my abilities in my personal interest of health, nutrition, and excercise in future projects and as my knowledge expands taking on more and more challenging projects.   
